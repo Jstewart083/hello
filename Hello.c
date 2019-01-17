@@ -9,7 +9,7 @@
 #include<stdio.h>
 	
 int main(int argc, char **argv) {
-  printf("Jacob Stewart, Brent Miller");
+  printf("Jacob Stewart, Electrical Engineering");
 
   return 0;
 }
